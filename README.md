@@ -38,12 +38,45 @@ I enjoy working on hands-on technical projects, solving problems, and developing
 Associate Degree – IT Network Specialist  
 Expected Graduation: 2027
 
-## 🏅 Certifications & Training
+## 🏅 Certifications & Technical Training (2025–2026)
 
-- Cisco Introduction to Networks
-- Cisco Switching, Routing, and Wireless Essentials
-- Cisco Enterprise Networking, Security, and Automation
-- CompTIA Technical Training
+### CompTIA Credentials & Training
+
+- **CompTIA Security Pro** – Cybersecurity fundamentals, risk management, and network security.
+  [Verify Credential](https://certification.platform.comptia.org/verifycert/6-3C6-ACR6G)
+
+- **CompTIA Client Pro** – End-user support, operating system troubleshooting, and client systems.
+  [Verify Credential](https://certification.platform.comptia.org/verifycert/6-3C6-777HG)
+
+- **CompTIA PC Pro** – PC hardware, software installation, and system maintenance.
+  [Verify Credential](https://certification.platform.comptia.org/verifycert/6-3C6-777LF)
+
+- **CompTIA Hybrid Server Administration: Server Core**
+
+- **CompTIA Hybrid Server Pro Advanced**
+  [Verify Credential](https://certification.platform.comptia.org/verifycert/6-3C6-EFU7U)
+
+### Cisco Networking Academy
+
+- **Introduction to Networks**
+  [View Cisco Badge](https://www.credly.com/badges/5cb869e6-f323-44e2-b46e-a09678f0cc1e/public_url)
+
+- **Switching, Routing & Wireless Essentials (SRWE)**
+  [View Cisco Badge](https://www.credly.com/badges/c90f3648-5015-408b-a130-ca90e5be7a75/public_url)
+
+- **Enterprise Networking, Security, and Automation (ENSA)**
+  [View Cisco Badge](https://www.credly.com/badges/84d79aaf-a68c-4bff-972c-5e6ae4914e83/public_url)
+
+### Additional Technical Training
+
+- Scripting for Network Administration (Python & PowerShell)
+- CompTIA Network+ coursework:
+  - Network architecture
+  - TCP/IP
+  - Routing and switching
+  - Network security
+  - Wireless networking
+  - Network troubleshooting
 
 ## 🤝 Connect With Me
 
