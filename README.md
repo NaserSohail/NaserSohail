@@ -56,6 +56,9 @@ Expected Graduation: 2027
 - **CompTIA Hybrid Server Pro Advanced**
   [Verify Credential](https://certification.platform.comptia.org/verifycert/6-3C6-EFU7U)
 
+- **CompTIA – Competency in Networking** – Completed Network+ CertMaster Learn training (July 2026).
+  [Verify Credential](https://certification.platform.comptia.org/verifycert/6-3C6-FF2BN)
+
 ### Cisco Networking Academy
 
 - **Introduction to Networks**
