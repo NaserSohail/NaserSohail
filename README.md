@@ -59,13 +59,13 @@ Expected Graduation: 2027
 ### Cisco Networking Academy
 
 - **Introduction to Networks**
-  [View Cisco Badge](https://www.credly.com/badges/5cb869e6-f323-44e2-b46e-a09678f0cc1e/public_url)
+  [View Badge](https://www.credly.com/badges/5cb869e6-f323-44e2-b46e-a09678f0cc1e/public_url)
 
 - **Switching, Routing & Wireless Essentials (SRWE)**
-  [View Cisco Badge](https://www.credly.com/badges/c90f3648-5015-408b-a130-ca90e5be7a75/public_url)
+  [View Badge](https://www.credly.com/badges/c90f3648-5015-408b-a130-ca90e5be7a75/public_url)
 
 - **Enterprise Networking, Security, and Automation (ENSA)**
-  [View Cisco Badge](https://www.credly.com/badges/84d79aaf-a68c-4bff-972c-5e6ae4914e83/public_url)
+  [View Badge](https://www.credly.com/badges/84d79aaf-a68c-4bff-972c-5e6ae4914e83/public_url)
 
 ### Additional Technical Training
 
@@ -77,7 +77,7 @@ Expected Graduation: 2027
   - Network security
   - Wireless networking
   - Network troubleshooting
-
+  
 ## 🤝 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/naser-sohail-625774250)
